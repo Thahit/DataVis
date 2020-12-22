@@ -3,16 +3,16 @@ Interesting Projects from DataVisConcepts(snall letter)/DataVisAnalysis(capital 
 Most of the plots are interactive. (if possible I added an .html + there are Screenshots in the folders)<br>
 I did not include all the DataSets as I don't know if I have the rights to do so.
 
-example(Corona Tests CH):
-1:
+example:
+## 1 (Corona Tests CH):
 
 ![1](/ex3/ScreeenShot1.png)
 
-2(Daily Corona Cases per Canton):
+## 2 (Daily Corona Cases per Canton):
 
 ![2](/ex4/Screenshot1.png)
 
-3(k-medoids):
+## 3 (k-medoids):
 
 ![3](/Ex3/k_Medoids.jpg)
 
