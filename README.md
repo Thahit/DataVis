@@ -17,4 +17,4 @@ example:
 ![3](/Ex3/k_Medoids.jpg)
 
 
-For anyone reading this. Sorry for the spelling mistakes that might be there. It wasn't a priority to me + some of the mistakes in the comments are not from me.
+For anyone reading this. Sorry for the spelling mistakes that might be there. It wasn't a priority to me + some of the mistakes in the comments are not from me but from the instructions.
